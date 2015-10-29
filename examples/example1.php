@@ -24,7 +24,7 @@ use ThumbSniper\client\ThumbSniperClient;
 
 // configuration
 ThumbSniperClientSettings::setTimezone("Europe/Berlin");
-ThumbSniperClientSettings::setApiKey('http://mythumbsniper.example.com/');
+ThumbSniperClientSettings::setApiUrl('http://mythumbsniper.example.com/');
 ThumbSniperClientSettings::setApiKey(null);
 
 $thumbsniper = new ThumbSniperClient();
