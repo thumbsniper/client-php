@@ -1,6 +1,6 @@
 {
-  "name": "thumbsniper/thumbsniper-client",
-  "description": "ThumbSniper client",
+  "name": "thumbsniper/client-php",
+  "description": "ThumbSniper PHP client",
   "type": "library",
   "homepage": "https://thumbsniper.com",
   "minimum-stability": "dev",
